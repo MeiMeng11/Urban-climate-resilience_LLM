@@ -7,7 +7,7 @@ The project employs a two-stage pipeline:
 1.  **AI Detection:** Using Large Language Models (LLMs) to classify whether an abstract utilises Artificial Intelligence methods.
 2.  **Topic Modelling:** Applying BERTopic to cluster the identified literature into semantic topics.
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── data/
